@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/SOLID.dir/main.cpp.o CMakeFiles/SOLID.dir/SRP.cpp.o CMakeFiles/SOLID.dir/OCP.cpp.o CMakeFiles/SOLID.dir/ISP.cpp.o CMakeFiles/SOLID.dir/LSP.cpp.o  -o SOLID 

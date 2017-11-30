@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/x9zode/Apps/C++/Design Patterns/SOLID/OCP.cpp
+string
+-
+vector
+-
+iostream
+-
+
+/home/x9zode/Apps/C++/Design Patterns/SOLID/SRP.cpp
+vector
+-
+string
+-
+fstream
+-
+
+/home/x9zode/Apps/C++/Design Patterns/SOLID/main.cpp
+iostream
+-
+
